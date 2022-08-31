@@ -27,5 +27,5 @@ Download the batch file by right-clicking [here](https://raw.githubusercontent.c
     cinebench_results.txt - Extracted single/multi-core results
     
 ## Batch Options
-By default the batch file runs only the multi-core test. To run the single-core test set the `g_CinebenchCpu1Test=true`.
+By default the batch file runs only the multi-core test. To run the single-core test set the `g_CinebenchCpu1Test=true` inside the batch file.
 
